@@ -1,5 +1,3 @@
-<!-- UI Extension for Text OR Symbol type fields, CTFL hosted -->
-
 <!doctype html>
 <html lang="en">
 
@@ -27,13 +25,13 @@
 
 <body>
     <div class="cf-form-field">
+      	<div class="cf-form-hint">
+            External Content from PIM System.
+        </div>
         <select id="user-id" class="cf-form-input">
         </select>
-        <div class="cf-form-hint">
-            Content Attached from Your Other System.
-        </div>
 	  		<textarea id="user-notes" class="cf-form-input" aria-disabled="true"></textarea>
-      	<img id="user-image" src="https://source.unsplash.com/Q_6BS8IN0J8/300x200" alt="Preview Image Here" width="300" height="200">
+      	<img id="user-image" src="http://www.pngmart.com/files/4/Burberry-Logo-PNG-File.png" alt="Preview Image Here" width="150" height="100">
     </div>
 
     <script type="text/javascript">
@@ -43,7 +41,7 @@
         window.contentfulExtension.init(function (api) {
             api.window.startAutoResizer()
             var value = api.field.getValue()
-            var serviceUri = "https://my-json-server.typicode.com/jbodenhausen/demo-api-furniture/entries"
+            var serviceUri = "https://my-json-server.typicode.com/jbodenhausen/demo-api-fashion/entries"
         
             
             $.ajax({
