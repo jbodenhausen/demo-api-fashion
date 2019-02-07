@@ -1,0 +1,36 @@
+{
+    "entries": [
+      {
+        "id": 1,
+        "SKU": 39295221,
+        "title": "Classic Check Scarf - Camel",
+        "description":"Camel. 168 x 30cm/66.1 x 11.8in. 100% cashmere. Rectangular Fringing at both ends. Specialist dry clean. Made in Scotland.", "image":"https://assets.burberry.com/is/image/Burberryltd/44747f15be4e107ecbc9742e4165fd55f0dedb1b.jpg"
+      },
+      {
+        "id": 2,
+        "SKU": 39546731,
+        "title": "Classic Check Scarf - Stone",
+        "description":"Stone. 168 x 30cm/66.1 x 11.8in. 100% cashmere. Rectangular Fringing at both ends. Specialist dry clean. Made in Scotland.", "image":"https://assets.burberry.com/is/image/Burberryltd/d5686460c4e915382fe29430fe365e044705750c.jpg"
+      },
+      {
+        "id": 3,
+        "SKU": 39937341,
+        "title": "Classic Check Scarf - Navy",
+        "description":"Navy. 168 x 30cm/66.1 x 11.8in. 100% cashmere. Rectangular Fringing at both ends. Specialist dry clean. Made in Scotland.", "image":"https://assets.burberry.com/is/image/Burberryltd/e304838fc34fc50bc75982655459864d85f328cf.jpg"
+      },
+      {
+        "id": 4,
+        "SKU": 39937421,
+        "title": "Classic Check Scarf - Parade Red",
+        "description":"Parade Red. 168 x 30cm/66.1 x 11.8in. 100% cashmere. Rectangular Fringing at both ends. Specialist dry clean. Made in Scotland.", "image":"https://assets.burberry.com/is/image/Burberryltd/0ad9329ad1d4fb6f143eacf6f159ea29fd151a05.jpg"
+      }
+    ],
+    "users": [
+        {
+            "name": "user-001"
+        },
+        {
+            "name": "user-002"
+        }
+    ]
+  }
